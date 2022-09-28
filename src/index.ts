@@ -1,5 +1,4 @@
 import prettier from 'prettier/parser-postcss'
-
 import postcss, { Syntax } from 'postcss'
 import postcssScss from 'postcss-scss'
 import postcssLess from 'postcss-less'
